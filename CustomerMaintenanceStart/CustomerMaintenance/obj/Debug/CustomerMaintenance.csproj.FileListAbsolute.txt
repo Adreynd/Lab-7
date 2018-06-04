@@ -1,0 +1,26 @@
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\James\Desktop\CS 233N\Lab 4 and 5\Lab-4-and-5\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\James\Desktop\CS 233N\Lab 6\Lab 6\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
