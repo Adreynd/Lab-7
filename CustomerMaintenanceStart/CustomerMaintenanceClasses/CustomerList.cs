@@ -21,9 +21,23 @@ namespace CustomerMaintenanceClasses
             get { return count; }
         }
 
-        public Customer Index(int i)
+        public Customer this[int i]
         {
-            return customers[i];
+            get { return customers[i]; }
+            set { customers[i] = value; }
+        }
+
+        public Customer this[string e]
+        {
+            get
+            {
+                Customer c = new Customer();
+                c.Email = e;
+                if (customers.IndexOf(c) >= 0)
+                    return this[customers.IndexOf(c)];
+                else
+                    return new Customer("InvalidCustomer", "", "invalid@customer.com");
+            }
         }
 
         public void Add(Customer c)
@@ -36,6 +50,18 @@ namespace CustomerMaintenanceClasses
         {
             customers.Remove(c);
             count--;
+        }
+
+        public void Fill()
+        {
+            customers.Clear();
+            customers = CustomerDB.GetCustomers();
+            count = customers.Count();
+        }
+
+        public void Save()
+        {
+            CustomerDB.SaveCustomers(customers);
         }
 
         static public CustomerList operator+(CustomerList cl, Customer c)
