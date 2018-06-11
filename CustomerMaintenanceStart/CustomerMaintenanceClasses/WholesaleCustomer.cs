@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CustomerMaintenanceClasses
 {
-    class WholesaleCustomer : Customer
+    public class WholesaleCustomer : Customer
     {
         protected string company;
 
@@ -22,7 +22,7 @@ namespace CustomerMaintenanceClasses
         public string Company
         {
             get { return company; }
-            set { company = value; }
+            set { if (value.Length > MAXLENGTH) throw new ArgumentOutOfRangeException("Company", value, "Your company name must be 30 characters or less."); company = value; }
         }
 
         public override string GetDisplayText()

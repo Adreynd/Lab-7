@@ -28,3 +28,9 @@ C:\Users\Student\Desktop\Lab 6\Lab-6\CustomerMaintenanceStart\CustomerMaintenanc
 C:\Users\Student\Desktop\Lab 6\Lab-6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\Lab 6\Lab-6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
 C:\Users\Student\Desktop\Lab 6\Lab-6\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\James\Desktop\CS 233N\Lab 7\Lab-7\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\James\Desktop\CS 233N\Lab 7\Lab-7\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\James\Desktop\CS 233N\Lab 7\Lab-7\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CS 233N\Lab 7\Lab-7\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\CS 233N\Lab 7\Lab-7\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\James\Desktop\CS 233N\Lab 7\Lab-7\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb

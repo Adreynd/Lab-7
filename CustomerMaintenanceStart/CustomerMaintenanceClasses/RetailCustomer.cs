@@ -5,8 +5,9 @@ using System.Text;
 
 namespace CustomerMaintenanceClasses
 {
-    class RetailCustomer : Customer
+    public class RetailCustomer : Customer
     {
+        protected const int PHONE_DIGITS = 10;
         protected string homePhone;
 
         public RetailCustomer() : base()
@@ -22,7 +23,7 @@ namespace CustomerMaintenanceClasses
         public string HomePhone
         {
             get { return homePhone; }
-            set { homePhone = value; }
+            set { if (value.Length != PHONE_DIGITS) throw new ArgumentOutOfRangeException("Phone number", value, "Your phone number must consist of 10 digits."); homePhone = value; }
         }
 
         public override string GetDisplayText()
