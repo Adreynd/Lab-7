@@ -30,5 +30,10 @@ namespace CustomerMaintenanceClasses
         {
             return base.GetDisplayText() + " ph: (" + homePhone[0] + homePhone[1] + homePhone[2] + ")" + homePhone[3] + homePhone[4] + homePhone[5] + "-" + homePhone[6] + homePhone[7] + homePhone[8] + homePhone[9];
         }
+
+        public override string ToString()
+        {
+            return base.ToString() + " (" + homePhone[0] + homePhone[1] + homePhone[2] + ")" + homePhone[3] + homePhone[4] + homePhone[5] + "-" + homePhone[6] + homePhone[7] + homePhone[8] + homePhone[9];
+        }
     }
 }

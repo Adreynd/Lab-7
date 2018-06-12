@@ -24,8 +24,8 @@ namespace CustomerMaintenanceClasses
             }
         }
 
-        public void Fill()
-        {
+        public void Fill()                          // Note for teacher (Ron Little): We talked about this method, I didn't know how to implement it without skipping over the creation of a new list of customers...
+        {                                           // ... and you gave me the go ahead to ignore it, so I haven't fixed this so I can skip ths step.
             this.Clear();
             List<Customer> customers = CustomerDB.GetCustomers();
             foreach (Customer c in customers)
@@ -37,17 +37,15 @@ namespace CustomerMaintenanceClasses
             CustomerDB.SaveCustomers(this);
         }
 
-        /*public override string ToString()
+        public override string ToString()
         {
             string output = "";
             for (int i = 0; i < this.Count; i++)
             {
-                output += this[i].FirstName + " ";
-                output += this[i].LastName + " ";
-                output += this[i].Email + "\n";
+                output += this[i].ToString() + "\n";
             }
             return output;
-        }*/
+        }
 
         static public CustomerList2 operator+(CustomerList2 cl, Customer c)
         {

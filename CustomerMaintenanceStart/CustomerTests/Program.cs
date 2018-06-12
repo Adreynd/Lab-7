@@ -33,7 +33,7 @@ namespace CustomerTests
             TestCustomerList2Find();
             TestCustomerList2Save();
             TestCustomerList2Fill();
-            TestCustomerList2Poly();
+            TestCustomerList2ToString();
             TestCustomerList2Foreach();
 
             Console.WriteLine();
@@ -106,7 +106,8 @@ namespace CustomerTests
             Console.WriteLine("Getting Nohm, Chomskey, nohm@chomskey.com. " + c1.ToString());
             Console.WriteLine("Testing WholesaleCustomer ToString and RetailCustomer ToString.");
             Console.WriteLine("Expecting default values.");
-            Console.WriteLine(ws.ToString() + " " + rs.ToString());
+            Console.WriteLine(ws.ToString());
+            Console.WriteLine(rs.ToString());
             Console.WriteLine();
         }
 
@@ -531,11 +532,20 @@ namespace CustomerTests
             Console.WriteLine();
         }
 
-        static void TestCustomerList2Poly()
+        static void TestCustomerList2ToString()
         {
             CustomerList2 cl = new CustomerList2();
-            Customer c = new Customer();
-            Customer c2 = new Customer("Jack", "Daniels", "jack@daniels.com");
+            List<Customer> customers;
+            customers = CustomerDB.GetCustomers();
+
+            Console.WriteLine("Testing CustomerList2 ToString.");
+            Console.Write("Expecting ");
+            for (int i = 0; i < customers.Count; i++)
+                Console.WriteLine(customers[i]);
+            cl.Fill();
+
+            Console.Write("Getting ");
+            Console.WriteLine(cl);
         }
 
         static void TestCustomerList2Foreach()

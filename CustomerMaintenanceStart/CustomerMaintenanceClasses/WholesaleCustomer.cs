@@ -29,5 +29,10 @@ namespace CustomerMaintenanceClasses
         {
             return base.GetDisplayText() + " (" + company + ")";
         }
+
+        public override string ToString()
+        {
+            return base.ToString() + " " + company;
+        }
     }
 }
